@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Return {
+public class ReturnNextInt {
     public static void main(String[] args) {
         int i;
         Scanner s = new Scanner(System.in);

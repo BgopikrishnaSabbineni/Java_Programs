@@ -1,4 +1,4 @@
-public class Count {
+public class CountInstCha {
     public static void main(String[] args) {
         String str = "Gopiii";
         int count =0;

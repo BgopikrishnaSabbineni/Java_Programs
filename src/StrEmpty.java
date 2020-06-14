@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Empty {
+public class StrEmpty {
     public static void main(String[] args) {
         Scanner s =  new Scanner(System.in);
         System.out.println("Enter any String");
